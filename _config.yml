@@ -1,7 +1,8 @@
 layout_spectrum: 0.7298604
+typography_spectrum: 0.7019334
 color:
   saturation: 0.4383148
-  lightness: 0.5710228
+  lightness: 0.3378088
   brandStrength: 0.8823845
   brandColors:
     - '#FFFFFF'
@@ -10,5 +11,4 @@ color:
     - '#5C5C5C'
     - '#9A9A9A'
   rhythmicContrast: 0.4226638
-typography_spectrum: 0.7019334
 name: The ViKid Truth
