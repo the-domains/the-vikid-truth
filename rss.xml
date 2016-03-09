@@ -4,21 +4,21 @@
         <description><![CDATA[The ViKid Truth]]></description>
         <link>https://thegrid.ai/the-vikid-truth/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 09 Mar 2016 18:24:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Mar 2016 18:28:21 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/the-vikid-truth/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Behind the Code]]></title>
+            <description><![CDATA[<article><h1>Behind the Code</h1><p>What we need to learn is how </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1414c881e367d4d08373056f3bf3eb41faf3b964.jpg"></article>]]></description>
+            <link>https://thegrid.ai/the-vikid-truth/behind-the-code/index.html</link>
+            <guid isPermaLink="false">301fe787-3864-4dfd-88e7-dfdefddb1ede</guid>
+            <pubDate>Wed, 09 Mar 2016 18:28:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[It begins!]]></title>
             <description><![CDATA[<article><h1>It begins!</h1><p>The birth of a new Super Hero...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c2f6c003b748b47c56452922bfe7df54b4e8f88b.png"></article>]]></description>
             <link>https://thegrid.ai/the-vikid-truth/it-begins/index.html</link>
             <guid isPermaLink="false">813754ab-7a37-4164-bab9-8e4a34bd4afb</guid>
             <pubDate>Wed, 09 Mar 2016 13:22:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Behind the Code]]></title>
-            <description><![CDATA[<article><h1>Behind the Code</h1><p>Behind the code lies the computer. The computer is a physical device. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1414c881e367d4d08373056f3bf3eb41faf3b964.jpg"></article>]]></description>
-            <link>https://thegrid.ai/the-vikid-truth/behind-the-code/index.html</link>
-            <guid isPermaLink="false">301fe787-3864-4dfd-88e7-dfdefddb1ede</guid>
-            <pubDate>Wed, 09 Mar 2016 18:24:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
