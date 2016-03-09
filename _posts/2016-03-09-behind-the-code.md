@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: true
 keywords: []
-description: "Behind the code lies the computer. The computer is a physical device.\_"
-datePublished: '2016-03-09T18:28:18.216Z'
-dateModified: '2016-03-09T18:27:34.347Z'
+description: "What we need to learn is how\_"
+datePublished: '2016-03-09T18:33:15.150Z'
+dateModified: '2016-03-09T18:28:25.553Z'
 title: Behind the Code
 author: []
 sourcePath: _posts/2016-03-09-behind-the-code.md
