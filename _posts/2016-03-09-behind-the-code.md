@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: "What we need to learn is how\_"
-datePublished: '2016-03-09T18:33:15.150Z'
-dateModified: '2016-03-09T18:28:25.553Z'
+datePublished: '2016-03-09T19:11:43.782Z'
+dateModified: '2016-03-09T18:38:35.632Z'
 title: Behind the Code
 author: []
 sourcePath: _posts/2016-03-09-behind-the-code.md
