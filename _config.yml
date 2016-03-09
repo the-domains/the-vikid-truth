@@ -1,14 +1,29 @@
+name: The ViKid Truth
+favicon: null
 layout_spectrum: 0.7298604
+typography_spectrum: 0.7019334
+title: The ViKid Truth
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.4383148
-  lightness: 0.1573576
-  brandStrength: 0.8823845
   brandColors:
     - '#FFFFFF'
     - '#030303'
     - '#303030'
     - '#5C5C5C'
     - '#9A9A9A'
+  brandStrength: 0.8823845
+  lightness: 0.1573576
+  saturation: 0.4383148
   rhythmicContrast: 0.5204082
-typography_spectrum: 0.7019334
-name: The ViKid Truth
+purpose: []
