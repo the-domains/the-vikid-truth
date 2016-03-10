@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: "What we need to learn is how\_"
-datePublished: '2016-03-09T19:11:43.782Z'
-dateModified: '2016-03-09T18:38:35.632Z'
+datePublished: '2016-03-10T03:05:56.098Z'
+dateModified: '2016-03-10T03:05:52.978Z'
 title: Behind the Code
 author: []
 sourcePath: _posts/2016-03-09-behind-the-code.md
@@ -26,4 +26,4 @@ _type: Article
 
 Behind the code lies the computer. The computer is a physical device. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/341def5a-f865-4091-b9d5-21fdefaca9bc.jpg)
 
-What we need to learn is how
+What we need to learn is how to do what
